@@ -1,0 +1,15 @@
+#GameArea {
+    height: 90%;
+    width: 90%;
+    border: 2px solid black;
+    margin: auto;
+    display: block;
+}
+ .image {
+     visibility: hidden;
+ }
+
+ body {
+     overflow-y: hidden;
+     overflow-x: hidden;
+ }
